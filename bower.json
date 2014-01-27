@@ -1,0 +1,25 @@
+{
+  "name": "angular-labs-enter",
+  "main": "ng-labs-enter.js",
+  "version": "0.0.1",
+  "authors": [
+    "Andy Warner <awarner@bertramcapital.com>"
+  ],
+  "description": "Enter directive for elements",
+  "keywords": [
+    "angular",
+    "ng",
+    "bertram",
+    "labs",
+    "enter",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
